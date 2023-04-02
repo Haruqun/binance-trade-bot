@@ -9,6 +9,6 @@ version: 1
 # Rename the file to `apprise.yml`
 urls:
   # - tgram://TOKEN/CHAT_ID
-  # - discord://WebhookID/WebhookToken/
+  - discord://1092104876399538278/77Y26QkZf218_7oyxpSguLEm2HiuhmQeiLhteX0nQEGdb0MSwt1ahsoCLv3xu3dQfx-C/
   # - slack://tokenA/tokenB/tokenC
   # More options here: https://github.com/caronc/apprise
